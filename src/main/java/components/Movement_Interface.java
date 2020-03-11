@@ -12,5 +12,4 @@ public interface Movement_Interface {
     void backwardByDist(int meters);
 
     void stop();
-
 }
