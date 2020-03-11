@@ -24,3 +24,8 @@ hs_err_pid*
 
 # Server files
 src/main/java/server/ConnectionSettings.java
+
+# other files
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
